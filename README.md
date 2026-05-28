@@ -1,0 +1,1 @@
+# Copia_completa_Elden_Souls_atualizada
