@@ -1,0 +1,16 @@
+Alexandre - Model/musica
+Fernanda - Model/ livro
+Gabriel - Cabeçalho
+Guilherme - Model/jogo
+Karine - Css/index/menu.php
+Laura - Model/cliente
+Ricardo - Banco
+
+
+
+-------- banco -----
+tirar cod_adm do cliente -
+apagar as vendas-
+criar pedido-
+criar itens(gambiarra)-
+cod_produto-

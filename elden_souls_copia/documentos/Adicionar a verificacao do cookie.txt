@@ -1,0 +1,25 @@
+if (isset($_COOKIE['administrador'])||isset($_COOKIE['cliente'])){
+
+<?php
+}else{
+	header('location: index.php');
+}
+?>
+
+Não tem o verificar 
+*- Alterar cliente
+*- Alterar liv
+*- Alterar musica 
+*- Alterar Senha
+*- Alterar Senha Cliente
+*- Cadastrar cliente
+*- Cadastrar liv
+*- Cadastrar musica
+*- Excluir Cliente
+*- Excluir liv
+*- Excluir Musica
+*- Listar Cliente
+*- listar liv
+*- listar musica 
+*- login 
+*- Procurar
